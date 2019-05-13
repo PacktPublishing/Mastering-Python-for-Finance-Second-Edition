@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Machine Learning for Algorithmic Trading [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-algorithmic-trading?utm_source=github&utm_medium=repository&utm_campaign=9781789346411) [[Amazon]](https://www.amazon.com/dp/178934641X)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **James Ma Weiming**
 is a software engineer based in Singapore. His studies and research are
 focused on financial technology, machine learning, data sciences, and computational
