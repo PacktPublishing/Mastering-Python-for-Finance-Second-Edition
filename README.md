@@ -9,7 +9,7 @@ This is the code repository for [Mastering Python for Finance - Second Edition](
 ## What is this book about?
 The second edition of Mastering Python for Finance will guide you through carrying out complex financial calculations practiced in the industry of finance by using next-generation methodologies. You will master the Python ecosystem by leveraging publicly available tools to successfully perform research studies and modeling, and learn to manage risks with the help of advanced examples.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Solve linear and nonlinear models representing various financial problems
 * Perform principal component analysis on the DOW index and its components
 * Analyze, predict, and forecast stationary and non-stationary time series processes
