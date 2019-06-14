@@ -1,6 +1,6 @@
 # Mastering Python for Finance - Second Edition
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789346466"><img src="https://www.packtpub.com/sites/default/files/B11165.png" alt="Mastering Python for Finance - Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789346466"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/1/b11165.png" alt="Mastering Python for Finance - Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Python for Finance - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-finance-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789346466), published by Packt.
 
