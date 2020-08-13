@@ -20,6 +20,10 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
+  ## Errata
+ 
+ * Page 51 - A minimization example with integer programming (3rd sentence): **Dealer Y charges $450 per contract plus a transaction fee of $2,000.** _should be_ **Dealer Y charges $350 per contract plus a transaction fee of $2,000.**
+
 ## Instructions and Navigations
 All of the code is organized into folders. For example,
 
